@@ -1,2 +1,0 @@
-# interaction
-class work upload
